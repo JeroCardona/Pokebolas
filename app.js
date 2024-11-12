@@ -1,7 +1,7 @@
 const express = require('express');
 const pokeneaRoutes = require('./src/routes/pokeneaRoutes');
 const app = express();
-const PORT = 8080;
+const PORT = 80;
 
 // Set EJS as the template engine
 app.set('view engine', 'ejs');

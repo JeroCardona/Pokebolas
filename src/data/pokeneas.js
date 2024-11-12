@@ -4,7 +4,7 @@ const pokeneas = [
         name: "Pikaña",
         height: "1.04m",
         ability: "Electricity",
-        image: "https://ruta-de-tu-imagen/pikana.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(1).jpg",
         phrase: "Parce, la vida es una chispa de oportunidades."
     },
     {
@@ -12,7 +12,7 @@ const pokeneas = [
         name: "Charcarro",
         height: "1.70m",
         ability: "Fire",
-        image: "https://ruta-de-tu-imagen/charcarro.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(2).jpg",
         phrase: "El fuego interno es la clave, mi llave."
     },
     {
@@ -20,7 +20,7 @@ const pokeneas = [
         name: "Bulbarrito",
         height: "0.85m",
         ability: "Plant",
-        image: "https://ruta-de-tu-imagen/bulbarrito.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(3).jpg",
         phrase: "Hay que crecer con verraquera, siempre firme."
     },
     {
@@ -28,7 +28,7 @@ const pokeneas = [
         name: "Ratarri",
         height: "0.30m",
         ability: "Cunning",
-        image: "https://ruta-de-tu-imagen/ratarri.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(4).jpg",
         phrase: "El que no corre, vuela, parcero."
     },
     {
@@ -36,7 +36,7 @@ const pokeneas = [
         name: "Gyarparcero",
         height: "2.00m",
         ability: "Water",
-        image: "https://ruta-de-tu-imagen/gyarparcero.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(5).jpg",
         phrase: "Nada contra la corriente, mijo."
     },
     {
@@ -44,7 +44,7 @@ const pokeneas = [
         name: "Machoketa",
         height: "1.80m",
         ability: "Strength",
-        image: "https://ruta-de-tu-imagen/machoketa.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(6).jpg",
         phrase: "La fuerza no solo es física, es mental, parce."
     },
     {
@@ -52,7 +52,7 @@ const pokeneas = [
         name: "Jigglyparty",
         height: "0.50m",
         ability: "Hypnotic Singing",
-        image: "https://ruta-de-tu-imagen/jigglyparty.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(7).jpg",
         phrase: "Una serenata nea nunca falla."
     },
     {
@@ -60,7 +60,7 @@ const pokeneas = [
         name: "Zubatido",
         height: "0.80m",
         ability: "Night Flight",
-        image: "https://ruta-de-tu-imagen/zubatido.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(8).jpg",
         phrase: "En la oscuridad, nadie me ve venir."
     },
     {
@@ -68,7 +68,7 @@ const pokeneas = [
         name: "Magicarreta",
         height: "0.90m",
         ability: "Surprise",
-        image: "https://ruta-de-tu-imagen/magicarreta.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(9).jpg",
         phrase: "Hoy soy carreta, pero mañana sorpresa."
     },
     {
@@ -76,7 +76,7 @@ const pokeneas = [
         name: "Polibruja",
         height: "0.70m",
         ability: "Magic Dust",
-        image: "https://ruta-de-tu-imagen/polibruja.jpg",
+        image: "https://storage.googleapis.com/pokeneajero/1nea%20(10).jpg",
         phrase: "El que no crea en la magia, que vea cómo me muevo."
     }
 ];

@@ -24,6 +24,7 @@ function getRandomPokeneaData() {
     return {
         id: pokenea.id,
         name: pokenea.name,
+        image: pokenea.image,
         height: pokenea.height,
         ability: pokenea.ability,
     };
